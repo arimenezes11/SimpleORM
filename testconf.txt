@@ -1,0 +1,4 @@
+3
+Name:string
+Age:int
+Male:bool
